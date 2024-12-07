@@ -1,0 +1,75 @@
+.contact {
+    text-decoration: underline;
+}
+#middle {
+    background-color: rgb(170, 170, 170, 0.6);
+}
+.pad {
+    margin: 0 auto;
+    border-bottom: 1px solid gray;
+    width: 60%;
+}
+.mid-top {
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+.mid-mid {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.mid-bot {
+    padding-top: 5vh;
+    padding-bottom: 10vh;
+    margin: 0 auto;
+    width: 60%;
+}
+.pad > p > a {
+    text-decoration: none;
+    color: rgb(165, 165, 0);
+}
+.bot2 {
+    font-weight: bold;
+}
+.bot3 {
+    margin-left: 3.2vh;
+}
+.bottom {
+    height: 130vh;
+}
+.uk {
+    font-size: 10vh;
+}
+.judul {
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+}
+.form {
+    margin: 0 auto;
+    width: 30%; 
+    padding-top: 10vh;
+    font-size: x-large;
+}
+.form1 {
+    border-top: none;
+    border-bottom: 1px solid black;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    height: 7vh;
+    margin-bottom: 7vh;
+}
+.send {
+    width: 100%;
+    height: 7vh;
+    border-radius: 4vh;
+    font-size: medium;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: sans-serif;
+    color: white;
+}
+.send:hover {
+    background-color: yellow;
+    color: black;
+}

@@ -1,0 +1,76 @@
+body, html {
+    height: 100%;
+}
+.transparan {
+    /* The image used */
+    background-image: url('bgtransparan.jpg');
+  
+    /* Full height */
+    height: 100vh; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dasar {
+    width: 80%;
+    margin: 0 auto;
+}
+.top{
+    background-color: rgba(0,0,0,0);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+}
+.logo {
+    display: flex;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.pos {
+    margin-top: -12px;
+    margin-left: 5px;
+}
+.underline > a {
+    text-decoration: none;
+    color: white;
+}
+.nav {
+    display: flex;
+    gap: 20px;
+}
+.nav > a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.nav > a:hover {
+    color: rgb(255, 238, 0);
+}
+.mid {
+    text-align: center;
+    margin-top: 40vh;
+    color: white;
+}
+.mid > h1 {
+    font-size: 10vh;
+    font-family: tahoma ;
+}
+.mid > p {
+    margin-bottom: 6vh;
+}
+.kuning {
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.more > a > span {
+    color: white;
+}
+.more > a > span:hover {
+    color: yellow;
+}

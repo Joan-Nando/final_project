@@ -1,0 +1,35 @@
+.port {
+    text-decoration: underline;
+}
+.dasar-middle {
+    background-color: rgb(230, 230, 230, 1);
+    height: 230vh;
+}
+#middle {
+    width: 100%;
+    background-color: rgba(230, 230, 230, 0.6);
+    width: 95%;
+    margin: 0 auto;
+}
+.judul {
+    margin-top: 0;
+    padding: 10vh;
+    font-size: 10vh;
+    color: white;
+    text-align: center;
+}
+.w25 {
+    width: 25%;
+}
+.w25 > div > img {
+    width: 100%;
+}
+.h15 > div > img {
+    height: 40vh;
+}
+.h16 > div > img {
+    height: 72vh;
+}
+.h-end > div > img {
+    height: 50vh;
+}

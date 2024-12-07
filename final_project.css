@@ -1,0 +1,62 @@
+#middle {
+    background-color: white;
+}
+.about {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+.burung > img {
+    width: 20vh;
+}
+.mid-top > img {
+    position: relative;
+    left: 25vh;
+}
+.mid-bot > img {
+    position: relative;
+    right: 45vh;
+}
+.bot {
+    background-color: rgb(170, 170, 170, 0.6);
+    height: 130vh;
+}
+.port {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+.bot-part {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 10vh;
+    padding-top: 10vh;
+    color: rgba(0, 0, 0, 0.6) ;
+}
+.more2 > a > button {
+    width: 180px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    background-color: white;
+    font-family: sans-serif;
+    color: black;
+    font-size: large;text-decoration: none;
+}
+.more2 > a > button:hover {
+    background-color: yellow;
+    border: none;
+    color: rgb(0, 0, 0,);
+}
+.burung_sp > img{
+    width: 20vh;
+}

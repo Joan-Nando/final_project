@@ -1,0 +1,53 @@
+footer {
+    background-color: rgb(48, 48, 48);
+    
+}
+.dasar-foot {
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    width: 20%;
+    margin: 0 auto;
+}
+.foot-bot {
+    background-color: rgb(27, 27, 27);
+    color: white;
+    text-align: center;
+    padding: 1.5vh;
+    font-size: large;
+}
+.font {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 3vh;
+    margin-bottom: 7vh;
+}
+.logo-foot {
+    display: flex;
+    margin-top: 8vh;
+    margin-right: 10px;
+}
+.log-pos {
+    margin-top: 7px;
+    margin-left: 4px;
+}
+.p {
+    display: flex;
+}
+.p > a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 4px;
+}
+.p > a:hover {
+    color: rgb(255, 255, 0, 0.8);
+}
+.font > h2 {
+    margin-bottom: 0;
+}
+.foot-2 {
+    margin-left: 10px;
+}
+.foot-2 > div {
+    margin: 3px;
+}
